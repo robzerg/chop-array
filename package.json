@@ -1,6 +1,6 @@
 {
   "name": "chop-array",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "ChopArray for training",
   "main": "./lib/choparray.js",
   "repository": {
@@ -8,6 +8,7 @@
     "url": "https://github.com/robzerg/chop-array.git"
   },
   "devDependencies": {
-    "assertthat": "0.6.0"
+    "assertthat": "0.6.0",
+    "cases": "0.1.1"
   }
 }
