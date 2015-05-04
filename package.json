@@ -1,5 +1,10 @@
 {
   "name": "chop-array",
   "version": "0.0.1",
-  "main": "./lib/choparray.js"
+  "description": "ChopArray for training",
+  "main": "./lib/choparray.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robzerg/chop-array.git"
+  }
 }
