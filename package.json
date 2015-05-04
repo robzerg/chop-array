@@ -1,6 +1,6 @@
 {
   "name": "chop-array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ChopArray for training",
   "main": "./lib/choparray.js",
   "repository": {
