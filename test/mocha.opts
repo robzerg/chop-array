@@ -1,0 +1,4 @@
+--ui tdd
+--reporter landing
+--recursive
+--bail
